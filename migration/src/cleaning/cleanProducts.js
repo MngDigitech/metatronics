@@ -28,9 +28,12 @@ function cleanProductName(name) {
     cleaned = cleaned.replace(/\bS25plus\b/gi, "S25 Plus");
     cleaned = cleaned.replace(/\bS23FE\b/gi, "S23 FE");
     cleaned = cleaned.replace(/\bultra\b/gi, "Ultra");
-    
-    // Correct storage notation
+
+    // Correct confirmed storage notation
     cleaned = cleaned.replace(/\b1TGB\b/gi, "1TB");
+
+    // Provisional model-name standardisation
+    cleaned = cleaned.replace(/\bNote20u\b/gi, "Note20 Ultra");
 
     return cleaned;
 }
@@ -45,25 +48,15 @@ fs.writeFileSync(
     JSON.stringify(cleanedProducts, null, 2)
 );
 
-console.log("\n========== PRODUCT CLEANING ==========\n");
-
 console.log("Original products:", products.length);
 console.log("Cleaned products:", cleanedProducts.length);
 
-const changed = cleanedProducts.filter((product, index) =>
-    product.name !== products[index].name
-);
+console.log("\nReviewed products:");
 
-console.log("Names standardised:", changed.length);
-
-console.log("\nSample changes:");
-
-changed.slice(0, 10).forEach(product => {
-    const original = products.find(p => p.id === product.id);
-
-    console.log(`${original.name} -> ${product.name}`);
-});
+cleanedProducts
+    .filter(product =>
+        /iPhone 14 Pro Max 1TB|iPhone 15$|iPhone 15 Pro 1TB|iPhone 15 Pro Max 1TB|Note20 Ultra/i.test(product.name)
+    )
+    .forEach(product => console.log(product.name));
 
 console.log("\nOutput:", outputPath);
-
-console.log("\n========== CLEANING COMPLETE ==========\n");
