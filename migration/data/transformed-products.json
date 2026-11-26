@@ -1,0 +1,1226 @@
+[
+  {
+    "name": "Apple iPhone X 64GB",
+    "category": "Apple",
+    "price": 3778,
+    "image": {
+      "desktop": "./assets/iPhone-X-Silver-1.jpg.webp"
+    },
+    "id": "apple-apple-iphone-x-64gb"
+  },
+  {
+    "name": "Apple iPhone X 256GB",
+    "category": "Apple",
+    "price": 3972,
+    "image": {
+      "desktop": "./assets/iPhone-X-Silver-1.jpg.webp"
+    },
+    "id": "apple-apple-iphone-x-256gb"
+  },
+  {
+    "name": "Apple iPhone XR 64GB",
+    "category": "Apple",
+    "price": 4141,
+    "image": {
+      "desktop": "./assets/iphone-xr-white.jpg"
+    },
+    "id": "apple-apple-iphone-xr-64gb"
+  },
+  {
+    "name": "Apple iPhone XR 128GB",
+    "category": "Apple",
+    "price": 4262,
+    "image": {
+      "desktop": "./assets/iphone-xr-white.jpg"
+    },
+    "id": "apple-apple-iphone-xr-128gb"
+  },
+  {
+    "name": "Apple iPhone XR 256GB",
+    "category": "Apple",
+    "price": 4504,
+    "image": {
+      "desktop": "./assets/iphone-xr-white.jpg"
+    },
+    "id": "apple-apple-iphone-xr-256gb"
+  },
+  {
+    "name": "Apple iPhone 11 64GB",
+    "category": "Apple",
+    "price": 4577,
+    "image": {
+      "desktop": "./assets/iphone 11.webp"
+    },
+    "id": "apple-apple-iphone-11-64gb"
+  },
+  {
+    "name": "Apple iPhone 11 128GB",
+    "category": "Apple",
+    "price": 4698,
+    "image": {
+      "desktop": "./assets/iphone 11.webp"
+    },
+    "id": "apple-apple-iphone-11-128gb"
+  },
+  {
+    "name": "Apple iPhone 11 256GB",
+    "category": "Apple",
+    "price": 4988,
+    "image": {
+      "desktop": "./assets/iphone 11.webp"
+    },
+    "id": "apple-apple-iphone-11-256gb"
+  },
+  {
+    "name": "Apple iPhone 11 Pro 64GB",
+    "category": "Apple",
+    "price": 5230,
+    "image": {
+      "desktop": "./assets/iphone 11 pro.webp"
+    },
+    "id": "apple-apple-iphone-11-pro-64gb"
+  },
+  {
+    "name": "Apple iPhone 11 Pro 256GB",
+    "category": "Apple",
+    "price": 5472,
+    "image": {
+      "desktop": "./assets/iphone 11 pro.webp"
+    },
+    "id": "apple-apple-iphone-11-pro-256gb"
+  },
+  {
+    "name": "Apple iPhone 11 Pro Max 64GB",
+    "category": "Apple",
+    "price": 5424,
+    "image": {
+      "desktop": "./assets/apple-iphone-11-pro-max.webp"
+    },
+    "id": "apple-apple-iphone-11-pro-max-64gb"
+  },
+  {
+    "name": "Apple iPhone 11 Pro Max 256GB",
+    "category": "Apple",
+    "price": 5593,
+    "image": {
+      "desktop": "./assets/apple-iphone-11-pro-max.webp"
+    },
+    "id": "apple-apple-iphone-11-pro-max-256gb"
+  },
+  {
+    "name": "Apple iPhone 11 Pro Max 512GB",
+    "category": "Apple",
+    "price": 6077,
+    "image": {
+      "desktop": "./assets/apple-iphone-11-pro-max.webp"
+    },
+    "id": "apple-apple-iphone-11-pro-max-512gb"
+  },
+  {
+    "name": "Apple iPhone 12 64GB",
+    "category": "Apple",
+    "price": 4746,
+    "image": {
+      "desktop": "./assets/iphone_12.webp"
+    },
+    "id": "apple-apple-iphone-12-64gb"
+  },
+  {
+    "name": "Apple iPhone 12 128GB",
+    "category": "Apple",
+    "price": 4940,
+    "image": {
+      "desktop": "./assets/iphone_12.webp"
+    },
+    "id": "apple-apple-iphone-12-128gb"
+  },
+  {
+    "name": "Apple iPhone 12 256GB",
+    "category": "Apple",
+    "price": 5230,
+    "image": {
+      "desktop": "./assets/iphone_12.webp"
+    },
+    "id": "apple-apple-iphone-12-256gb"
+  },
+  {
+    "name": "Apple iPhone 12 Pro 128GB",
+    "category": "Apple",
+    "price": 5956,
+    "image": {
+      "desktop": "./assets/iphone 12 pro.webp"
+    },
+    "id": "apple-apple-iphone-12-pro-128gb"
+  },
+  {
+    "name": "Apple iPhone 12 Pro 256GB",
+    "category": "Apple",
+    "price": 6319,
+    "image": {
+      "desktop": "./assets/iphone 12 pro.webp"
+    },
+    "id": "apple-apple-iphone-12-pro-256gb"
+  },
+  {
+    "name": "Apple iPhone 12 Pro Max 128GB",
+    "category": "Apple",
+    "price": 6319,
+    "image": {
+      "desktop": "./assets/iPhone_12_Pro_Max.jpg"
+    },
+    "id": "apple-apple-iphone-12-pro-max-128gb"
+  },
+  {
+    "name": "Apple iPhone 12 Pro Max 256GB",
+    "category": "Apple",
+    "price": 6924,
+    "image": {
+      "desktop": "./assets/iPhone_12_Pro_Max.jpg"
+    },
+    "id": "apple-apple-iphone-12-pro-max-256gb"
+  },
+  {
+    "name": "Apple iPhone 12 Pro Max 512GB",
+    "category": "Apple",
+    "price": 7408,
+    "image": {
+      "desktop": "./assets/iPhone_12_Pro_Max.jpg"
+    },
+    "id": "apple-apple-iphone-12-pro-max-512gb"
+  },
+  {
+    "name": "Apple iPhone 13 128GB",
+    "category": "Apple",
+    "price": 5956,
+    "image": {
+      "desktop": "./assets/iphone 13.jpg"
+    },
+    "id": "apple-apple-iphone-13-128gb"
+  },
+  {
+    "name": "Apple iPhone 13 256GB",
+    "category": "Apple",
+    "price": 6319,
+    "image": {
+      "desktop": "./assets/iphone 13.jpg"
+    },
+    "id": "apple-apple-iphone-13-256gb"
+  },
+  {
+    "name": "Apple iPhone 13 Pro 128GB",
+    "category": "Apple",
+    "price": 7408,
+    "image": {
+      "desktop": "./assets/iPhone-13-Pro.webp"
+    },
+    "id": "apple-apple-iphone-13-pro-128gb"
+  },
+  {
+    "name": "Apple iPhone 13 Pro 256GB",
+    "category": "Apple",
+    "price": 7892,
+    "image": {
+      "desktop": "./assets/iPhone-13-Pro.webp"
+    },
+    "id": "apple-apple-iphone-13-pro-256gb"
+  },
+  {
+    "name": "Apple iPhone 13 Pro 512GB",
+    "category": "Apple",
+    "price": 8618,
+    "image": {
+      "desktop": "./assets/iPhone-13-Pro.webp"
+    },
+    "id": "apple-apple-iphone-13-pro-512gb"
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max 128GB",
+    "category": "Apple",
+    "price": 8013,
+    "image": {
+      "desktop": "./assets/iPhone-13-Pro.webp"
+    },
+    "id": "apple-apple-iphone-13-pro-max-128gb"
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max 256GB",
+    "category": "Apple",
+    "price": 8739,
+    "image": {
+      "desktop": "./assets/iPhone-13-Pro.webp"
+    },
+    "id": "apple-apple-iphone-13-pro-max-256gb"
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max 512GB",
+    "category": "Apple",
+    "price": 9344,
+    "image": {
+      "desktop": "./assets/iPhone-13-Pro.webp"
+    },
+    "id": "apple-apple-iphone-13-pro-max-512gb"
+  },
+  {
+    "name": "Apple iPhone 14 128GB",
+    "category": "Apple",
+    "price": 6682,
+    "image": {
+      "desktop": "./assets/iphone_14.webp"
+    },
+    "id": "apple-apple-iphone-14-128gb"
+  },
+  {
+    "name": "Apple iPhone 14 256GB",
+    "category": "Apple",
+    "price": 7287,
+    "image": {
+      "desktop": "./assets/iphone_14.webp"
+    },
+    "id": "apple-apple-iphone-14-256gb"
+  },
+  {
+    "name": "Apple iPhone 14 plus 128GB",
+    "category": "Apple",
+    "price": 6924,
+    "image": {
+      "desktop": "./assets/iphone_14.webp"
+    },
+    "id": "apple-apple-iphone-14-plus-128gb"
+  },
+  {
+    "name": "Apple iPhone 14 plus 256GB",
+    "category": "Apple",
+    "price": 7892,
+    "image": {
+      "desktop": "./assets/iphone_14.webp"
+    },
+    "id": "apple-apple-iphone-14-plus-256gb"
+  },
+  {
+    "name": "Apple iPhone 14 Pro 128GB",
+    "category": "Apple",
+    "price": 8376,
+    "image": {
+      "desktop": "./assets/iphone_14_pro_max.webp"
+    },
+    "id": "apple-apple-iphone-14-pro-128gb"
+  },
+  {
+    "name": "Apple iPhone 14 Pro 256GB",
+    "category": "Apple",
+    "price": 8860,
+    "image": {
+      "desktop": "./assets/iphone_14_pro_max.webp"
+    },
+    "id": "apple-apple-iphone-14-pro-256gb"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 128GB",
+    "category": "Apple",
+    "price": 9344,
+    "image": {
+      "desktop": "./assets/iphone_14_pro_max.webp"
+    },
+    "id": "apple-apple-iphone-14-pro-max-128gb"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 256GB",
+    "category": "Apple",
+    "price": 9828,
+    "image": {
+      "desktop": "./assets/iphone_14_pro_max.webp"
+    },
+    "id": "apple-apple-iphone-14-pro-max-256gb"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 512GB",
+    "category": "Apple",
+    "price": 10312,
+    "image": {
+      "desktop": "./assets/iphone_14_pro_max.webp"
+    },
+    "id": "apple-apple-iphone-14-pro-max-512gb"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 1TGB",
+    "category": "Apple",
+    "price": 11280,
+    "image": {
+      "desktop": "./assets/iphone_14_pro_max.webp"
+    },
+    "id": "apple-apple-iphone-14-pro-max-1tgb"
+  },
+  {
+    "name": "Apple iPhone 15 128GB",
+    "category": "Apple",
+    "price": 8376,
+    "image": {
+      "desktop": "./assets/iphone_15.webp"
+    },
+    "id": "apple-apple-iphone-15-128gb"
+  },
+  {
+    "name": "Apple iPhone 15 256GB",
+    "category": "Apple",
+    "price": 9344,
+    "image": {
+      "desktop": "./assets/iphone_15.webp"
+    },
+    "id": "apple-apple-iphone-15-256gb"
+  },
+  {
+    "name": "Apple iPhone 15",
+    "category": "Apple",
+    "price": 1600,
+    "image": {
+      "desktop": "./assets/iphone_15.webp"
+    },
+    "id": "apple-apple-iphone-15"
+  },
+  {
+    "name": "Apple iPhone 15 plus 128GB",
+    "category": "Apple",
+    "price": 8618,
+    "image": {
+      "desktop": "./assets/iphone_15.webp"
+    },
+    "id": "apple-apple-iphone-15-plus-128gb"
+  },
+  {
+    "name": "Apple iPhone 15 plus 256GB",
+    "category": "Apple",
+    "price": 9707,
+    "image": {
+      "desktop": "./assets/iphone_15.webp"
+    },
+    "id": "apple-apple-iphone-15-plus-256gb"
+  },
+  {
+    "name": "Apple iPhone 15 pro 128GB",
+    "category": "Apple",
+    "price": 10312,
+    "image": {
+      "desktop": "./assets/iphone 15 pro.png"
+    },
+    "id": "apple-apple-iphone-15-pro-128gb"
+  },
+  {
+    "name": "Apple iPhone 15 pro 256GB",
+    "category": "Apple",
+    "price": 10796,
+    "image": {
+      "desktop": "./assets/iphone 15 pro.png"
+    },
+    "id": "apple-apple-iphone-15-pro-256gb"
+  },
+  {
+    "name": "Apple iPhone 15 pro 512GB",
+    "category": "Apple",
+    "price": 11522,
+    "image": {
+      "desktop": "./assets/iphone 15 pro.png"
+    },
+    "id": "apple-apple-iphone-15-pro-512gb"
+  },
+  {
+    "name": "Apple iPhone 15 pro 1TGB",
+    "category": "Apple",
+    "price": 12127,
+    "image": {
+      "desktop": "./assets/iphone 15 pro.png"
+    },
+    "id": "apple-apple-iphone-15-pro-1tgb"
+  },
+  {
+    "name": "Apple iPhone 15 pro max 256GB",
+    "category": "Apple",
+    "price": 11764,
+    "image": {
+      "desktop": "./assets/iphone 15 pro.png"
+    },
+    "id": "apple-apple-iphone-15-pro-max-256gb"
+  },
+  {
+    "name": "Apple iPhone 15 pro max 512GB",
+    "category": "Apple",
+    "price": 12248,
+    "image": {
+      "desktop": "./assets/iphone 15 pro.png"
+    },
+    "id": "apple-apple-iphone-15-pro-max-512gb"
+  },
+  {
+    "name": "Apple iPhone 15 pro max 1TGB",
+    "category": "Apple",
+    "price": 12853,
+    "image": {
+      "desktop": "./assets/iphone 15 pro.png"
+    },
+    "id": "apple-apple-iphone-15-pro-max-1tgb"
+  },
+  {
+    "name": "Samsung S9 64GB",
+    "category": "Samsung",
+    "price": 3173,
+    "image": {
+      "desktop": "./assets/galaxy s9.webp"
+    },
+    "id": "samsung-samsung-s9-64gb"
+  },
+  {
+    "name": "Samsung S9 plus 64GB",
+    "category": "Samsung",
+    "price": 3536,
+    "image": {
+      "desktop": "./assets/galaxy s9 plus.jpg"
+    },
+    "id": "samsung-samsung-s9-plus-64gb"
+  },
+  {
+    "name": "Samsung S10 128GB",
+    "category": "Samsung",
+    "price": 4141,
+    "image": {
+      "desktop": "./assets/galaxy s10.jpg"
+    },
+    "id": "samsung-samsung-s10-128gb"
+  },
+  {
+    "name": "Samsung S10 5G 128GB",
+    "category": "Samsung",
+    "price": 4335,
+    "image": {
+      "desktop": "./assets/galaxy s10.jpg"
+    },
+    "id": "samsung-samsung-s10-5g-128gb"
+  },
+  {
+    "name": "Samsung S10 plus 256GB",
+    "category": "Samsung",
+    "price": 4698,
+    "image": {
+      "desktop": "./assets/galaxy s10 plus.jpg"
+    },
+    "id": "samsung-samsung-s10-plus-256gb"
+  },
+  {
+    "name": "Samsung S20 128GB",
+    "category": "Samsung",
+    "price": 4141,
+    "image": {
+      "desktop": "./assets/galaxy s20.webp"
+    },
+    "id": "samsung-samsung-s20-128gb"
+  },
+  {
+    "name": "Samsung S20 plus 128GB",
+    "category": "Samsung",
+    "price": 4262,
+    "image": {
+      "desktop": "./assets/galaxy s20 plus.jpg"
+    },
+    "id": "samsung-samsung-s20-plus-128gb"
+  },
+  {
+    "name": "Samsung S20 Ultra 128GB",
+    "category": "Samsung",
+    "price": 4988,
+    "image": {
+      "desktop": "./assets/galaxy s20 ultra.jpg"
+    },
+    "id": "samsung-samsung-s20-ultra-128gb"
+  },
+  {
+    "name": "Samsung S20 FE 128GB",
+    "category": "Samsung",
+    "price": 3778,
+    "image": {
+      "desktop": "./assets/galaxy s20 fe.webp"
+    },
+    "id": "samsung-samsung-s20-fe-128gb"
+  },
+  {
+    "name": "Samsung S21 128GB",
+    "category": "Samsung",
+    "price": 4383,
+    "image": {
+      "desktop": "./assets/galaxy s21.webp"
+    },
+    "id": "samsung-samsung-s21-128gb"
+  },
+  {
+    "name": "Samsung S21 plus 128GB",
+    "category": "Samsung",
+    "price": 4625,
+    "image": {
+      "desktop": "./assets/galaxy s21 plus.jpg"
+    },
+    "id": "samsung-samsung-s21-plus-128gb"
+  },
+  {
+    "name": "Samsung S21 Ultra 128GB",
+    "category": "Samsung",
+    "price": 5714,
+    "image": {
+      "desktop": "./assets/galaxy s21 ultra.file"
+    },
+    "id": "samsung-samsung-s21-ultra-128gb"
+  },
+  {
+    "name": "Samsung S21 Ultra 256GB",
+    "category": "Samsung",
+    "price": 1600,
+    "image": {
+      "desktop": "./assets/galaxy s21 ultra.file"
+    },
+    "id": "samsung-samsung-s21-ultra-256gb"
+  },
+  {
+    "name": "Samsung S22 Ultra 128GB",
+    "category": "Samsung",
+    "price": 6924,
+    "image": {
+      "desktop": "./assets/galaxy s22 ultra.webp"
+    },
+    "id": "samsung-samsung-s22-ultra-128gb"
+  },
+  {
+    "name": "Samsung S22 Ultra 256GB",
+    "category": "Samsung",
+    "price": 7408,
+    "image": {
+      "desktop": "./assets/galaxy s22 ultra.webp"
+    },
+    "id": "samsung-samsung-s22-ultra-256gb"
+  },
+  {
+    "name": "Samsung S22 plus 256GB",
+    "category": "Samsung",
+    "price": 5472,
+    "image": {
+      "desktop": "./assets/galaxy s22 plus.jpg"
+    },
+    "id": "samsung-samsung-s22-plus-256gb"
+  },
+  {
+    "name": "Samsung S22 128GB",
+    "category": "Samsung",
+    "price": 4867,
+    "image": {
+      "desktop": "./assets/galaxy s22.webp"
+    },
+    "id": "samsung-samsung-s22-128gb"
+  },
+  {
+    "name": "Samsung S22 256GB",
+    "category": "Samsung",
+    "price": 5109,
+    "image": {
+      "desktop": "./assets/galaxy s22.webp"
+    },
+    "id": "samsung-samsung-s22-256gb"
+  },
+  {
+    "name": "Samsung S23 128GB",
+    "category": "Samsung",
+    "price": 6319,
+    "image": {
+      "desktop": "./assets/galaxy s23.jpg"
+    },
+    "id": "samsung-samsung-s23-128gb"
+  },
+  {
+    "name": "Samsung S23 256GB",
+    "category": "Samsung",
+    "price": 6803,
+    "image": {
+      "desktop": "./assets/galaxy s23.jpg"
+    },
+    "id": "samsung-samsung-s23-256gb"
+  },
+  {
+    "name": "Samsung S23FE 128GB",
+    "category": "Samsung",
+    "price": 5956,
+    "image": {
+      "desktop": "./assets/galaxy s23 fe.jpg"
+    },
+    "id": "samsung-samsung-s23fe-128gb"
+  },
+  {
+    "name": "Samsung S23 plus 256GB",
+    "category": "Samsung",
+    "price": 6924,
+    "image": {
+      "desktop": "./assets/galaxy s23 plus.jpg"
+    },
+    "id": "samsung-samsung-s23-plus-256gb"
+  },
+  {
+    "name": "Samsung S23 ultra 256GB",
+    "category": "Samsung",
+    "price": 8860,
+    "image": {
+      "desktop": "./assets/Galaxy-S23-Ultra.png"
+    },
+    "id": "samsung-samsung-s23-ultra-256gb"
+  },
+  {
+    "name": "Samsung S23 ultra 512GB",
+    "category": "Samsung",
+    "price": 9586,
+    "image": {
+      "desktop": "./assets/Galaxy-S23-Ultra.png"
+    },
+    "id": "samsung-samsung-s23-ultra-512gb"
+  },
+  {
+    "name": "Samsung S24 128GB",
+    "category": "Samsung",
+    "price": 8134,
+    "image": {
+      "desktop": "./assets/galaxy s24.avif"
+    },
+    "id": "samsung-samsung-s24-128gb"
+  },
+  {
+    "name": "Samsung S24 256GB",
+    "category": "Samsung",
+    "price": 8860,
+    "image": {
+      "desktop": "./assets/galaxy s24.avif"
+    },
+    "id": "samsung-samsung-s24-256gb"
+  },
+  {
+    "name": "Samsung S24 plus 256GB",
+    "category": "Samsung",
+    "price": 9344,
+    "image": {
+      "desktop": "./assets/galaxy s24 plus.jpg"
+    },
+    "id": "samsung-samsung-s24-plus-256gb"
+  },
+  {
+    "name": "Samsung S24 Ultra 256GB",
+    "category": "Samsung",
+    "price": 11764,
+    "image": {
+      "desktop": "./assets/galaxy s24 ultra.jpg"
+    },
+    "id": "samsung-samsung-s24-ultra-256gb"
+  },
+  {
+    "name": "Samsung S24 Ultra 512GB",
+    "category": "Samsung",
+    "price": 12248,
+    "image": {
+      "desktop": "./assets/galaxy s24 ultra.jpg"
+    },
+    "id": "samsung-samsung-s24-ultra-512gb"
+  },
+  {
+    "name": "Samsung S25 128GB",
+    "category": "Samsung",
+    "price": 9223,
+    "image": {
+      "desktop": "./assets/galaxy s25.webp"
+    },
+    "id": "samsung-samsung-s25-128gb"
+  },
+  {
+    "name": "Samsung S25 256GB",
+    "category": "Samsung",
+    "price": 10554,
+    "image": {
+      "desktop": "./assets/galaxy s25.webp"
+    },
+    "id": "samsung-samsung-s25-256gb"
+  },
+  {
+    "name": "Samsung S25plus 256GB",
+    "category": "Samsung",
+    "price": 11401,
+    "image": {
+      "desktop": "./assets/galaxy s25 plus.jpg"
+    },
+    "id": "samsung-samsung-s25plus-256gb"
+  },
+  {
+    "name": "Samsung S25 ultra 256GB",
+    "category": "Samsung",
+    "price": 13700,
+    "image": {
+      "desktop": "./assets/galaxy s25 ultra.jpg"
+    },
+    "id": "samsung-samsung-s25-ultra-256gb"
+  },
+  {
+    "name": "Samsung S25 ultra 512GB",
+    "category": "Samsung",
+    "price": 15878,
+    "image": {
+      "desktop": "./assets/galaxy s25 ultra.jpg"
+    },
+    "id": "samsung-samsung-s25-ultra-512gb"
+  },
+  {
+    "name": "Samsung Note10 256GB",
+    "category": "Samsung",
+    "price": 4262,
+    "image": {
+      "desktop": "./assets/galaxy note 10.webp"
+    },
+    "id": "samsung-samsung-note10-256gb"
+  },
+  {
+    "name": "Samsung Note10 plus 256GB",
+    "category": "Samsung",
+    "price": 4988,
+    "image": {
+      "desktop": "./assets/galaxy note 10 plus.png"
+    },
+    "id": "samsung-samsung-note10-plus-256gb"
+  },
+  {
+    "name": "Samsung Note20 128GB",
+    "category": "Samsung",
+    "price": 4504,
+    "image": {
+      "desktop": "./assets/galaxy note 20 ultra.png"
+    },
+    "id": "samsung-samsung-note20-128gb"
+  },
+  {
+    "name": "Samsung Note20u 128GB",
+    "category": "Samsung",
+    "price": 6077,
+    "image": {
+      "desktop": "./assets/galaxy note 20 ultra.png"
+    },
+    "id": "samsung-samsung-note20u-128gb"
+  },
+  {
+    "name": "Samsung Note20u 256GB",
+    "category": "Samsung",
+    "price": 6319,
+    "image": {
+      "desktop": "./assets/galaxy note 20 ultra.png"
+    },
+    "id": "samsung-samsung-note20u-256gb"
+  },
+  {
+    "name": "Samsung A14 128GB",
+    "category": "Samsung",
+    "price": 3004,
+    "image": {
+      "desktop": "./assets/samsung a14.webp"
+    },
+    "id": "samsung-samsung-a14-128gb"
+  },
+  {
+    "name": "Samsung A15 128GB",
+    "category": "Samsung",
+    "price": 3899,
+    "image": {
+      "desktop": "./assets/samsung a15.webp"
+    },
+    "id": "samsung-samsung-a15-128gb"
+  },
+  {
+    "name": "Samsung A16 128GB",
+    "category": "Samsung",
+    "price": 4383,
+    "image": {
+      "desktop": "./assets/samsung a16.webp"
+    },
+    "id": "samsung-samsung-a16-128gb"
+  },
+  {
+    "name": "Samsung A17 128GB",
+    "category": "Samsung",
+    "price": 4867,
+    "image": {
+      "desktop": "./assets/samsung a17.jpg"
+    },
+    "id": "samsung-samsung-a17-128gb"
+  },
+  {
+    "name": "Samsung A31 64GB",
+    "category": "Samsung",
+    "price": 3415,
+    "image": {
+      "desktop": "./assets/samsung a31.jpg"
+    },
+    "id": "samsung-samsung-a31-64gb"
+  },
+  {
+    "name": "Samsung A22 64GB",
+    "category": "Samsung",
+    "price": 3342,
+    "image": {
+      "desktop": "./assets/samsung a22.jpg"
+    },
+    "id": "samsung-samsung-a22-64gb"
+  },
+  {
+    "name": "Samsung A23 128GB",
+    "category": "Samsung",
+    "price": 3488,
+    "image": {
+      "desktop": "./assets/samsung a23.jpg"
+    },
+    "id": "samsung-samsung-a23-128gb"
+  },
+  {
+    "name": "Samsung A24 128GB",
+    "category": "Samsung",
+    "price": 4867,
+    "image": {
+      "desktop": "./assets/samsung a24.webp"
+    },
+    "id": "samsung-samsung-a24-128gb"
+  },
+  {
+    "name": "Samsung A25 128GB",
+    "category": "Samsung",
+    "price": 4456,
+    "image": {
+      "desktop": "./assets/samsung a25.jpg"
+    },
+    "id": "samsung-samsung-a25-128gb"
+  },
+  {
+    "name": "Samsung A26 128GB",
+    "category": "Samsung",
+    "price": 5230,
+    "image": {
+      "desktop": "./assets/samsung a26.jpg"
+    },
+    "id": "samsung-samsung-a26-128gb"
+  },
+  {
+    "name": "Samsung A32 128GB",
+    "category": "Samsung",
+    "price": 3536,
+    "image": {
+      "desktop": "./assets/samsung a32.jpg"
+    },
+    "id": "samsung-samsung-a32-128gb"
+  },
+  {
+    "name": "Samsung A33 128GB",
+    "category": "Samsung",
+    "price": 4214,
+    "image": {
+      "desktop": "./assets/samsung a33.png"
+    },
+    "id": "samsung-samsung-a33-128gb"
+  },
+  {
+    "name": "Samsung A34 128GB",
+    "category": "Samsung",
+    "price": 4625,
+    "image": {
+      "desktop": "./assets/samsung a34.jpg"
+    },
+    "id": "samsung-samsung-a34-128gb"
+  },
+  {
+    "name": "Samsung A35 128GB",
+    "category": "Samsung",
+    "price": 5230,
+    "image": {
+      "desktop": "./assets/samsung a35.png"
+    },
+    "id": "samsung-samsung-a35-128gb"
+  },
+  {
+    "name": "Samsung A36 256GB",
+    "category": "Samsung",
+    "price": 6198,
+    "image": {
+      "desktop": "./assets/samsung a36.webp"
+    },
+    "id": "samsung-samsung-a36-256gb"
+  },
+  {
+    "name": "Samsung A52 128GB",
+    "category": "Samsung",
+    "price": 4020,
+    "image": {
+      "desktop": "./assets/samsung a52.jpeg"
+    },
+    "id": "samsung-samsung-a52-128gb"
+  },
+  {
+    "name": "Samsung A53 128GB",
+    "category": "Samsung",
+    "price": 4141,
+    "image": {
+      "desktop": "./assets/samsung a53.jpg"
+    },
+    "id": "samsung-samsung-a53-128gb"
+  },
+  {
+    "name": "Samsung A53 256GB",
+    "category": "Samsung",
+    "price": 4383,
+    "image": {
+      "desktop": "./assets/samsung a53.jpg"
+    },
+    "id": "samsung-samsung-a53-256gb"
+  },
+  {
+    "name": "Samsung A07 128GB",
+    "category": "Samsung",
+    "price": 4020,
+    "image": {
+      "desktop": "./assets/samsung a07.jpg"
+    },
+    "id": "samsung-samsung-a07-128gb"
+  },
+  {
+    "name": "Samsung A54 128GB",
+    "category": "Samsung",
+    "price": 4867,
+    "image": {
+      "desktop": "./assets/samsung a54.webp"
+    },
+    "id": "samsung-samsung-a54-128gb"
+  },
+  {
+    "name": "Samsung A54 256GB",
+    "category": "Samsung",
+    "price": 5109,
+    "image": {
+      "desktop": "./assets/samsung a54.webp"
+    },
+    "id": "samsung-samsung-a54-256gb"
+  },
+  {
+    "name": "Samsung A55 256GB",
+    "category": "Samsung",
+    "price": 6682,
+    "image": {
+      "desktop": "./assets/samsung a55.webp"
+    },
+    "id": "samsung-samsung-a55-256gb"
+  },
+  {
+    "name": "Samsung A56 256GB",
+    "category": "Samsung",
+    "price": 7045,
+    "image": {
+      "desktop": "./assets/samsung a56.webp"
+    },
+    "id": "samsung-samsung-a56-256gb"
+  },
+  {
+    "name": "Samsung A72 128GB",
+    "category": "Samsung",
+    "price": 4746,
+    "image": {
+      "desktop": "./assets/samsung a72.png"
+    },
+    "id": "samsung-samsung-a72-128gb"
+  },
+  {
+    "name": "Samsung A73 128GB",
+    "category": "Samsung",
+    "price": 4988,
+    "image": {
+      "desktop": "./assets/samsung a73.webp"
+    },
+    "id": "samsung-samsung-a73-128gb"
+  },
+  {
+    "name": "Samsung A40S 64GB",
+    "category": "Samsung",
+    "price": 2931,
+    "image": {
+      "desktop": "./assets/samsung a40s.avif"
+    },
+    "id": "samsung-samsung-a40s-64gb"
+  },
+  {
+    "name": "Samsung A50S 128GB",
+    "category": "Samsung",
+    "price": 3294,
+    "image": {
+      "desktop": "./assets/samsung a50s.jpg"
+    },
+    "id": "samsung-samsung-a50s-128gb"
+  },
+  {
+    "name": "Samsung A60 128GB",
+    "category": "Samsung",
+    "price": 3294,
+    "image": {
+      "desktop": "./assets/samsung a60.jpg"
+    },
+    "id": "samsung-samsung-a60-128gb"
+  },
+  {
+    "name": "Samsung A70 128GB",
+    "category": "Samsung",
+    "price": 3536,
+    "image": {
+      "desktop": "./assets/samsung a70.jpg"
+    },
+    "id": "samsung-samsung-a70-128gb"
+  },
+  {
+    "name": "Samsung A80 128GB",
+    "category": "Samsung",
+    "price": 4020,
+    "image": {
+      "desktop": "./assets/samsung a80.jpg"
+    },
+    "id": "samsung-samsung-a80-128gb"
+  },
+  {
+    "name": "Samsung A51 128GB",
+    "category": "Samsung",
+    "price": 3536,
+    "image": {
+      "desktop": "./assets/samsung a51.webp"
+    },
+    "id": "samsung-samsung-a51-128gb"
+  },
+  {
+    "name": "Samsung A71 128GB",
+    "category": "Samsung",
+    "price": 3778,
+    "image": {
+      "desktop": "./assets/samsung a71.png"
+    },
+    "id": "samsung-samsung-a71-128gb"
+  },
+  {
+    "name": "Samsung Fold7 256GB",
+    "category": "Samsung",
+    "price": 18782,
+    "image": {
+      "desktop": "./assets/fold 7.webp"
+    },
+    "id": "samsung-samsung-fold7-256gb"
+  },
+  {
+    "name": "Samsung Fold7 512GB",
+    "category": "Samsung",
+    "price": 21444,
+    "image": {
+      "desktop": "./assets/fold 7.webp"
+    },
+    "id": "samsung-samsung-fold7-512gb"
+  },
+  {
+    "name": "Samsung Fold6 256GB",
+    "category": "Samsung",
+    "price": 12611,
+    "image": {
+      "desktop": "./assets/fold 6.jpeg"
+    },
+    "id": "samsung-samsung-fold6-256gb"
+  },
+  {
+    "name": "Samsung Fold6 512GB",
+    "category": "Samsung",
+    "price": 13216,
+    "image": {
+      "desktop": "./assets/fold 6.jpeg"
+    },
+    "id": "samsung-samsung-fold6-512gb"
+  },
+  {
+    "name": "Samsung Fold5 256GB",
+    "category": "Samsung",
+    "price": 9344,
+    "image": {
+      "desktop": "./assets/fold 5.jpg"
+    },
+    "id": "samsung-samsung-fold5-256gb"
+  },
+  {
+    "name": "Samsung Fold5 512GB",
+    "category": "Samsung",
+    "price": 9828,
+    "image": {
+      "desktop": "./assets/fold 5.jpg"
+    },
+    "id": "samsung-samsung-fold5-512gb"
+  },
+  {
+    "name": "Samsung Fold4 256GB",
+    "category": "Samsung",
+    "price": 7771,
+    "image": {
+      "desktop": "./assets/fold 4.jpg"
+    },
+    "id": "samsung-samsung-fold4-256gb"
+  },
+  {
+    "name": "Samsung Fold3 256GB",
+    "category": "Samsung",
+    "price": 7408,
+    "image": {
+      "desktop": "./assets/fold 3.png"
+    },
+    "id": "samsung-samsung-fold3-256gb"
+  },
+  {
+    "name": "Samsung Fold2 256GB",
+    "category": "Samsung",
+    "price": 6924,
+    "image": {
+      "desktop": "./assets/fold 2.jpg"
+    },
+    "id": "samsung-samsung-fold2-256gb"
+  },
+  {
+    "name": "Samsung Flip7 256GB",
+    "category": "Samsung",
+    "price": 9707,
+    "image": {
+      "desktop": "./assets/flip 7.jpg"
+    },
+    "id": "samsung-samsung-flip7-256gb"
+  },
+  {
+    "name": "Samsung Flip6 256GB",
+    "category": "Samsung",
+    "price": 7287,
+    "image": {
+      "desktop": "./assets/flip 6.webp"
+    },
+    "id": "samsung-samsung-flip6-256gb"
+  },
+  {
+    "name": "Samsung Flip5 256GB",
+    "category": "Samsung",
+    "price": 6319,
+    "image": {
+      "desktop": "./assets/flip 5.jpg"
+    },
+    "id": "samsung-samsung-flip5-256gb"
+  },
+  {
+    "name": "Samsung Flip4 256GB",
+    "category": "Samsung",
+    "price": 4988,
+    "image": {
+      "desktop": "./assets/flip 4.png"
+    },
+    "id": "samsung-samsung-flip4-256gb"
+  },
+  {
+    "name": "Samsung Flip3 256GB",
+    "category": "Samsung",
+    "price": 4625,
+    "image": {
+      "desktop": "./assets/flip 3.jpg"
+    },
+    "id": "samsung-samsung-flip3-256gb"
+  }
+]
